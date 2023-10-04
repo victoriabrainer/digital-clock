@@ -1,4 +1,4 @@
-# TO-DO LIST - Avançado
+# Relógio Digital
 
 Nesse projeto, criei um relógio digital, utilizando **HTML**, **CSS** e **JavaScript**.
 
